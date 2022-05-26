@@ -1,0 +1,120 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "nvh95",
+      "name": "Hung Viet Nguyen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8603085?v=4",
+      "profile": "https://hung.dev",
+      "contributions": [
+        "code",
+        "doc",
+        "example"
+      ]
+    },
+    {
+      "login": "ntt261298",
+      "name": "Truong Nguyen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36792554?v=4",
+      "profile": "https://github.com/ntt261298",
+      "contributions": [
+        "code",
+        "doc",
+        "example"
+      ]
+    },
+    {
+      "login": "doanhuuviet",
+      "name": "Viet Huu Doan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103036586?v=4",
+      "profile": "https://www.linkedin.com/in/viet-doan-830061a0/",
+      "contributions": [
+        "design"
+      ]
+    },
+    {
+      "login": "ntbinh-Harvey",
+      "name": "HarveyNguyen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57211574?v=4",
+      "profile": "https://github.com/ntbinh-Harvey",
+      "contributions": [
+        "test"
+      ]
+    },
+    {
+      "login": "mattmurph9",
+      "name": "Matt Murphy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63432827?v=4",
+      "profile": "https://github.com/mattmurph9",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "nottyo",
+      "name": "Traitanit Huangsri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8110002?v=4",
+      "profile": "https://www.linkedin.com/in/traitanit-huangsri-8701b291/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "thanhsonng",
+      "name": "Thanh Son Nguyen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28614996?v=4",
+      "profile": "http://linkedin.com/in/thanhsonng",
+      "contributions": [
+        "code",
+        "example",
+        "doc"
+      ]
+    },
+    {
+      "login": "minhmo1620",
+      "name": "Minh Nguyen ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44143370?v=4",
+      "profile": "https://github.com/minhmo1620",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "tinhvqbk",
+      "name": "Kyle(Tình Vũ)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26925018?v=4",
+      "profile": "https://github.com/tinhvqbk",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "makotot",
+      "name": "Makoto Tateno",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1129027?v=4",
+      "profile": "https://github.com/makotot",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "AbePlays",
+      "name": "Abhishek Rawat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47311875?v=4",
+      "profile": "http://www.wrongabhishek.com",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "jest-preview",
+  "projectOwner": "nvh95",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
